@@ -1,8 +1,8 @@
 # Skills
 
-Practical AI skills for Claude Code — built by a product leader and full-stack builder who's spent years turning market insight into shipped products.
+Practical AI skills for Claude Code. built by a product leader and full-stack builder who's spent years turning market insight into shipped products.
 
-I'm sharing my product marketing and strategy frameworks so you can move faster from insight to execution. Each skill gives Claude the structured thinking, templates, and methodologies that took me years to refine — ready to use in seconds.
+I'm sharing my product marketing and strategy frameworks so you can move faster from insight to execution. Each skill gives Claude the structured thinking, templates, and methodologies that took me years to refine. Ready to use in seconds.
 
 ## Available Skills
 
