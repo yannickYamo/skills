@@ -9,8 +9,8 @@ I'm sharing my product marketing and strategy frameworks so you can move faster 
 | Skill | Description | Install |
 |-------|-------------|---------|
 | **[abx-strategy](abx-strategy/)** | Account-Based Everything (ABX) framework for complex B2B GTM — 10 frameworks, scoring models, templates | `npx skills add yannickyamo/skills/abx-strategy` |
-
-*More skills coming soon.*
+| **[product-strategy](product-strategy/)** | Product Strategy System — ICP, positioning, pricing, GTM motion, strategic bets, and 1-page strategy canvas | `npx skills add yannickyamo/skills/product-strategy` |
+| **[product-operating-model](product-operating-model/)** | Meta-skill index for the Modern Product Operating Model — 6 composable product skills | `npx skills add yannickyamo/skills/product-operating-model` |
 
 ## Installation
 
@@ -20,6 +20,8 @@ Install a single skill directly into your Claude Code environment:
 
 ```bash
 npx skills add yannickyamo/skills/abx-strategy
+npx skills add yannickyamo/skills/product-strategy
+npx skills add yannickyamo/skills/product-operating-model
 ```
 
 ### Option 2: Clone & copy
